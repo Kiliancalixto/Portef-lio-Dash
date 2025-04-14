@@ -2,7 +2,7 @@
 
 Aqui esta um dos meus dashboards que criei durante meus estudos.
 
-## Dashboard de Vendas
+# Dashboard de Vendas
 
 ![Dashboard](Painel-telemarketing.png)
 
