@@ -10,6 +10,6 @@ Aqui esta um dos meus dashboards que criei durante meus estudos.
 
 # Avaliação de Produtos
 
-![Avaliação](Avaliacao-produtos.png)
+![Avaliaçao](Avaliacao-produtos.png)
 
 > Este painel mostra a média das avaliações por categoria e os produtos mais avaliados, com um total de 1.112 avaliações analisadas.
